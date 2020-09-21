@@ -1,0 +1,6 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.8" x="20" y="83" width="34" height="14" fill="var(--color-contrast-high)"/>
+<rect x="62" y="83" width="46" height="14" fill="var(--color-contrast-high)"/>
+<rect opacity="0.8" x="116" y="83" width="124" height="14" fill="var(--color-contrast-high)"/>
+<rect x="112" y="101" width="2" height="54" transform="rotate(90 112 101)" fill="var(--color-primary)"/>
+</svg>
